@@ -1,8 +1,0 @@
-# Core
-poke-env==0.10.0
-numpy>=1.24,<3
-matplotlib>=3.7,<4
-
-# poke-env deps (explicit so installs don’t wobble)
-websockets>=10,<13
-orjson>=3.9,<4
