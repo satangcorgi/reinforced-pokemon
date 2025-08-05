@@ -1,0 +1,54 @@
+Nidoking @ Life Orb
+Ability: Sheer Force
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Sludge Wave
+- Earth Power
+- Ice Beam
+- Flamethrower
+
+Ferrothorn @ Rocky Helmet
+Ability: Iron Barbs
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Spikes
+- Leech Seed
+- Power Whip
+- Knock Off
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 236 SpD / 20 Spe
+Calm Nature
+IVs: 0 Atk
+- Magma Storm
+- Earth Power
+- Taunt
+- Stealth Rock
+
+Tapu Fini @ Choice Scarf
+Ability: Misty Surge
+EVs: 248 HP / 44 SpD / 216 Spe
+Timid Nature
+- Scald
+- Moonblast
+- Trick
+- Taunt
+
+Tornadus-Therian @ Assault Vest
+Ability: Regenerator
+EVs: 252 HP / 88 Def / 168 Spe
+Timid Nature
+- Hurricane
+- Knock Off
+- U-turn
+- Heat Wave
+
+Zapdos-Galar @ Choice Band
+Ability: Defiant
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Thunderous Kick
+- U-turn
